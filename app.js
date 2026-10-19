@@ -1,2 +1,2 @@
-console.log("Hola Git - segunda ");
+console.log("Hola Git - segunda version");
 
